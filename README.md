@@ -5,7 +5,9 @@ This repository gathers resources across many topics in hopes to save and organi
 ## Python
 
 1. [`uv`](https://docs.astral.sh/uv/): This is my prefered package and environment manager for Python. Install it with `pip install uv`. You can create projects with `uv init my_project`, generate an environemnt with `uv venv`, and add packages with `uv add my_package`.
+
 2. [`geospatial`](https://geospatial.gishub.org/): This package installs virtually all the geospatial data analysis tools/packages you will ever need. This is particularly useful to me because geopandas is notoriously difficult to install outside conda installations. Add it to your project with `uv add geospatial`.
+
 3. [`joblib`](https://joblib.readthedocs.io/en/stable/): This package saves you so much time that its insane. Cache your variables and parallelize your code.
 
 ## Julia
