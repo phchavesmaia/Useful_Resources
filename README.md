@@ -16,6 +16,8 @@ This repository provides links to resources that I have found helpful throughout
 
 7. [`df-compress`](https://pypi.org/project/df-compress/): My attempt at replicating the behavior of Stata's `compress` command in Python.
 
+8. [`pyfixest`](https://pyfixest.org/): Essentially, it is R's `fixest` for Python. It should be your default linear model package. 
+
 ## Julia
 1. [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/): The single best resource for you to start your geospatial data analysis journey in Julia.
 
