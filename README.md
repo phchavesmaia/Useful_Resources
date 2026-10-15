@@ -18,6 +18,9 @@ This repository provides links to resources that I have found helpful throughout
 
 8. [`pyfixest`](https://pyfixest.org/): Essentially, it is R's `fixest` for Python. It should be your default linear model package. 
 
+9. [diff-diff](https://github.com/igerber/diff-diff): You wanted to conduct diff-in-diff studies in Python? This is the way.
+
+
 ## Julia
 1. [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/): The single best resource for you to start your geospatial data analysis journey in Julia.
 
